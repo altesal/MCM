@@ -1,16 +1,19 @@
 # MCM
 
+Título página inicio: Clasificar sellos de España (Edifil)
+
 Página web estática con una página de inicio 
 
-La página de inicio tiene el título "Clasificar sellos (Edifil)"  y el siguiente índice:
+La página de inicio tiene un título y el siguiente índice:
 - 1 c verde
 - 2 c marrón-rojizo
 
 Cada item del índice debe ir a una página que muestra una imagen (el nombre coincide con el item)
-Las imágenes no pueden descargarse de la web
+Para las imágenes las acciones copiar y descargarse deben estar deshabilitadas con el botón derecho.
 
 Estructura del proyecto
-Hay una carpeta images/wf con las imágenes vinculadas a cada item del índice de la página con título "Clasificar sellos (Edifil)"
+- Hay una carpeta images/wf con las imágenes vinculadas a cada item del índice de la página con título "Clasificar sellos (Edifil)"
+- Guardar estilos en la carpeta styles
 
 
 Ejecutar
