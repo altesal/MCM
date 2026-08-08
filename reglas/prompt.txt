@@ -1,0 +1,5 @@
+Convierte el texto del archivo "C:\repos\MCM\content\PERSONAL - JD.docx" eh HTML. 
+No inventes ni cambies el contenido, ha de ser contenido idéntico. 
+Da un estilo css sobrio, elegante, responsive para desktop y móvil. 
+Si encuentras lo siguiente: [imagen] quiere decir que ahí habrá una imagen, incluye siempre la imagen C:\repos\MCM\images\JuntaDefensa\32.jpg. La ruta de esta imagen te la paso en local, pero estará en un repositorio GitHub https://github.com/altesal/MCM/tree/master/images/JuntaDefensa/32.jpg
+
